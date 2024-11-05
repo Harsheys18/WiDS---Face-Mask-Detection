@@ -4,7 +4,9 @@
 
 The Active Face Mask Detection project aims to develop a real-time system that monitors individuals in CCTV footage to determine if they are wearing face masks, in alignment with Covid-19 safety protocols and public safety regulations. Designed to introduce you to essential machine learning concepts through a practical, hands-on approach, this project guides you step-by-step, making it accessible even if you’re new to the field. With just a curiosity to learn, you’ll gain foundational skills in computer vision and real-time video analysis. From understanding the basics of face detection to building a model that identifies mask compliance, this project offers a complete experience that’s as educational as it is relevant to today’s public health needs.
 
-![Sample Image](./display.jpg){: style="width: 400px; height: 400px;"}
+<div style="text-align: center;">
+<img src="display.jpg" alt="Expectation" style="width: 400px; height: 450px;" />
+</div>
 
 ## Prerequisites
 

@@ -2,13 +2,14 @@
 
 ## Description
 
-The goal of this project is to detect whether individuals are wearing face masks in real-time using CCTV footage, supporting Covid-19 safety protocols and ensuring public safety compliance. This project is designed to introduce you to the fundamentals of Machine Learning in an engaging, hands-on way. If you're new to this field, don’t worry! All you need is a willingness to learn, and we’ll guide you through the rest. Whether you're a beginner or just curious about how face detection works, this project will help you build foundational skills.
+The Active Face Mask Detection project aims to develop a real-time system that monitors individuals in CCTV footage to determine if they are wearing face masks, in alignment with Covid-19 safety protocols and public safety regulations. Designed to introduce you to essential machine learning concepts through a practical, hands-on approach, this project guides you step-by-step, making it accessible even if you’re new to the field. With just a curiosity to learn, you’ll gain foundational skills in computer vision and real-time video analysis. From understanding the basics of face detection to building a model that identifies mask compliance, this project offers a complete experience that’s as educational as it is relevant to today’s public health needs.
 
 ## Prerequisites
 
-1. **Basic Python Knowledge**: Understanding variables, loops, and functions will be helpful.
-2. **Familiarity with Libraries** _(optional)_: A basic idea of libraries like NumPy, OpenCV, and Matplotlib is a bonus but not mandatory.
-3. **Curiosity and Enthusiasm**: A strong interest in learning new concepts is the most important requirement!
+1. **CS101 Course**
+2. **Basic understanding of Python**: Understanding variables, loops, and functions will be helpful.
+3. **Familiarity with Data-analysis Libraries** _(optional)_: A basic idea of libraries like NumPy, OpenCV, and Matplotlib is a bonus but not mandatory.
+4. **Curiosity, Enthusiasm and commitment**
 
 ---
 
@@ -26,4 +27,10 @@ The goal of this project is to detect whether individuals are wearing face masks
 2. **NumPy Array Manipulations**: Write a program to convert an image to a NumPy array and explore basic operations to understand pixel data.
 3. **Organizing Data**: Practice organizing images into labeled folders (e.g., `with_mask` and `without_mask`).
 
-4. **_Bonus_**: Create a short script to load a batch of images, resize them to 128x128, and convert them to grayscale
+4. **_Bonus_**: Create a short script to load a batch of images, resize them to 128x128, and convert them to grayscale.
+
+### Resources
+
+1. **NumPy**: https://www.youtube.com/watch?v=QUT1VHiLmmI
+2. **Matplotlib**: https://www.youtube.com/watch?v=OZOOLe2imFo
+3. **Image Processing playlist**: https://www.youtube.com/playlist?list=PLKnIA16_RmvYXDBJ5WRDuQRSzFJs93pYR

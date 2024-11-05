@@ -1,8 +1,7 @@
 # Active Face Mask Detection - Winter in Data Science
-The goal of this project is to detect whether individuals are wearing face masks in real-time using CCTV footage, supporting Covid-19 safety protocols and ensuring public safety compliance.
 
 ## Description
-This project is designed to introduce you to the fundamentals of Machine Learning in an engaging, hands-on way. If you're new to this field, don’t worry! All you need is a willingness to learn, and we’ll guide you through the rest. Whether you're a beginner or just curious about how face detection works, this project will help you build foundational skills.
+The goal of this project is to detect whether individuals are wearing face masks in real-time using CCTV footage, supporting Covid-19 safety protocols and ensuring public safety compliance. This project is designed to introduce you to the fundamentals of Machine Learning in an engaging, hands-on way. If you're new to this field, don’t worry! All you need is a willingness to learn, and we’ll guide you through the rest. Whether you're a beginner or just curious about how face detection works, this project will help you build foundational skills.
 
 ## Prerequisites
 1. **Basic Python Knowledge**: Understanding variables, loops, and functions will be helpful.

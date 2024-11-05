@@ -26,3 +26,54 @@ This project is designed to introduce you to the fundamentals of Machine Learnin
 4. ***Bonus***: Create a short script to load a batch of images, resize them to 128x128, and convert them to grayscale.
 
 
+## Week 2: Basics of Neural Networks and Building a Simple CNN
+
+### Goals
+1. Learn the basics of neural networks and Convolutional Neural Networks (CNNs).
+2. Implement a simple CNN model for binary classification (with mask vs. without mask).
+3. Use Keras (or PyTorch if you’re comfortable) to build and train the model.
+
+### Assignments
+
+1. **Learn CNN Concepts**: Watch a beginner-friendly tutorial on neural networks and CNNs to understand concepts like convolution, pooling, and fully connected layers.
+
+2. **Build a CNN Model**: Write a program to create a CNN model using Keras, focusing on basic layers like `Conv2D`, `MaxPooling2D`, `Flatten`, and `Dense`.
+
+3. **Train the Model**: Train your model on the preprocessed data, monitor training loss and accuracy, and save the model.
+
+4. ***Bonus***: Preprocess and Train on Dataset
+Write a small program to load images, preprocess them, and train your CNN model to distinguish between images with and without masks.
+
+
+## Week 3: Model Evaluation, Testing, and Real-Time Detection with OpenCV
+
+### Goals
+1. Evaluate your model's performance and test it on new images.
+2. Implement real-time mask detection using your webcam and OpenCV.
+3. Explore basic deployment ideas if you have time.
+
+### Assignments
+
+1. **Model Evaluation**: Evaluate your trained model on a test set and calculate accuracy, precision, recall, and F1-score. Write a script to plot the model’s training and validation loss and accuracy.
+
+2. **Real-Time Detection with OpenCV**: Load the trained model and use it to classify faces from a live video stream. Use OpenCV’s `VideoCapture` to access the webcam and `CascadeClassifier` to detect faces in each frame.
+
+3. ***Bonus***: Explore deploying the model in a web app using Flask if time allows. Research how to serve the model as an API and process image data.
+
+## Week 4: Putting it together!
+
+### Goals
+1. Combine all the functionalities into a single application.
+2. Test the application thoroughly and fix any issues.
+3. Prepare a presentation or report summarizing your project, including challenges faced and solutions implemented.
+
+
+### Assignments
+
+1. **Integration**: Combine the model evaluation, real-time detection, and any other features you've implemented into one cohesive application.
+
+2. **Testing**: Thoroughly test your application with different scenarios and datasets to ensure reliability and performance.
+
+3. **Documentation**: Prepare documentation for your project, detailing the setup, usage instructions, and insights gained during the development process.
+
+4. ***Bonus***: Create a simple user interface (UI) using a library like Tkinter or Flask to make your application more user-friendly. This could include buttons for starting and stopping the detection, displaying results, and showing live video feeds in a window.

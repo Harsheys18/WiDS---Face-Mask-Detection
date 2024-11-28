@@ -39,8 +39,8 @@ Happy Learning and Coding!
 
 ### Assignments
 
-1. **Basic Image Manipulation with OpenCV**: Write a simple program to load, display, and save images using OpenCV and try some simple image operations(like converting images to grayscale, resizing, and flipping images).
-2. **NumPy Array Manipulations**: Write a program to convert an image to a NumPy array and explore basic operations to understand pixel data.
+1. **NumPy Array Manipulations**: Write a program to convert an image to a NumPy array and explore basic operations to understand pixel data.
+2. **Basic Image Manipulation with OpenCV**: Write a simple program to load, display, and save images using OpenCV and try some simple image operations(like converting images to grayscale, resizing, and flipping images).
 3. **Organizing Data**: Practice organizing images into labeled folders (e.g., `with_mask` and `without_mask`).
 
 4. **_Bonus_**: Create a short script to load a batch of images, resize them to 128x128, and convert them to grayscale.

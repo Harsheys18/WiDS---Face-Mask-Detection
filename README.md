@@ -47,7 +47,7 @@ Happy Learning and Coding!
 
 ### Resources
 
-1. **NumPy**: https://www.youtube.com/watch?v=QUT1VHiLmmI
+1. **NumPy**: https://www.youtube.com/watch?v=QUT1VHiLmmI ;;;; https://numpy.org/learn/
 2. **Matplotlib**: https://www.youtube.com/watch?v=OZOOLe2imFo
 3. **Image Processing playlist**: 
   a) https://www.youtube.com/playlist?list=PLKnIA16_RmvYXDBJ5WRDuQRSzFJs93pYR

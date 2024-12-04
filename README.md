@@ -47,9 +47,11 @@ Happy Learning and Coding!
 
 ### Resources
 
-1. **NumPy**: https://www.youtube.com/watch?v=QUT1VHiLmmI
+1. **NumPy**: https://www.youtube.com/watch?v=QUT1VHiLmmI ;;;; https://numpy.org/learn/
 2. **Matplotlib**: https://www.youtube.com/watch?v=OZOOLe2imFo
-3. **Image Processing playlist**: https://www.youtube.com/playlist?list=PLKnIA16_RmvYXDBJ5WRDuQRSzFJs93pYR
+3. **Image Processing playlist**: 
+  a) https://www.youtube.com/playlist?list=PLKnIA16_RmvYXDBJ5WRDuQRSzFJs93pYR
+  b) https://youtu.be/sfheWK72L74?si=TuCINL97hIOP8wCS
 
 ## Week 2: Basics of Neural Networks and Building a Simple CNN
 

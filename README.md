@@ -35,23 +35,17 @@ Happy Learning and Coding!
 
 1. Understand the basics of image processing and computer vision.
 2. Learn how to handle and preprocess image data.
-3. Get comfortable with essential libraries like OpenCV, NumPy, and Matplotlib.
+3. Get comfortable with essential libraries like OpenCV, NumPy, Pandas and Matplotlib.
 
 ### Assignments
 
 1. **NumPy Array Manipulations**: Write a program to convert an image to a NumPy array and explore basic operations to understand pixel data.
-2. **Basic Image Manipulation with OpenCV**: Write a simple program to load, display, and save images using OpenCV and try some simple image operations(like converting images to grayscale, resizing, and flipping images).
-3. **Organizing Data**: Practice organizing images into labeled folders (e.g., `with_mask` and `without_mask`).
 
-4. **_Bonus_**: Create a short script to load a batch of images, resize them to 128x128, and convert them to grayscale.
+2. **Pandas and Matplotlib**: Practise orgainising or seperation of data, analysis and trends of grahs using matplotlib.
 
-### Resources
+3. **Basic Image Manipulation with OpenCV**: Write a simple program to load, display, and save images using OpenCV and try some simple image operations(like converting images to grayscale, resizing, and flipping images).
 
-1. **NumPy**: https://www.youtube.com/watch?v=QUT1VHiLmmI ;;;; https://numpy.org/learn/
-2. **Matplotlib**: https://www.youtube.com/watch?v=OZOOLe2imFo
-3. **Image Processing playlist**: 
-  a) https://www.youtube.com/playlist?list=PLKnIA16_RmvYXDBJ5WRDuQRSzFJs93pYR
-  b) https://youtu.be/sfheWK72L74?si=TuCINL97hIOP8wCS
+4. **_Bonus_**: 
 
 ## Week 2: Basics of Neural Networks and Building a Simple CNN
 

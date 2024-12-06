@@ -30,7 +30,7 @@ Both libraries are essential for data analysis and visualization. Focus on learn
 
 2. **YouTube Playlists**:
 
-   - [Matplotlib General Plots](https://www.youtube.com/watch?v=OZOOLe2imFo)
+   - [Matplotlib](https://youtu.be/OZOOLe2imFo?si=o8IjiJie0FsJaQVN)
    - [Pandas Basics](https://youtu.be/vmEHCJofslg?si=zc7XBT6WLFdHRkce)
 
 3. **Web Tutorials**:

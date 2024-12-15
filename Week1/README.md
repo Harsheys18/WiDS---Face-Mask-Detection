@@ -25,7 +25,7 @@ Both libraries are essential for data analysis and visualization. Focus on learn
 
 1. **Official Documentation**:
 
-   - [Matplotlib Tutorials](https://matplotlib.org/stable/tutorials/index.html)
+   - [Matplotlib Tutorials](https://matplotlib.org/)
    - [Pandas User Guide](https://pandas.pydata.org/docs/user_guide/index.html#user-guide)
 
 2. **YouTube Playlists**:

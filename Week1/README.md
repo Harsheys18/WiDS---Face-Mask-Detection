@@ -60,9 +60,9 @@ OpenCV is an important library for computer vision tasks. Devote significant tim
 
 Focus on understanding the NumPy module, particularly its role in image data processing and conversions.
 
-### Assignment 2: **`_____.ipynb`**
+### Assignment 2: **`plot_em_all.ipynb`**
 
-This assignment covers the Pandas and Matplotlib libraries, essential for data analysis and visualization.
+This assignment covers the Matplotlib library, essential for data visualization.
 
 ### Assignment 3: **`Image_Processing.ipynb`**
 

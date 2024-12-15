@@ -41,7 +41,7 @@ Happy Learning and Coding!
 
 1. **NumPy Array Manipulations**: Write a program to convert an image to a NumPy array and explore basic operations to understand pixel data.
 
-2. **Pandas and Matplotlib**: Practise orgainising or seperation of data, analysis and trends of grahs using matplotlib.
+2. **Matplotlib**: Analysing the trends of graphs using matplotlib.
 
 3. **Basic Image Manipulation with OpenCV**: Write a simple program to load, display, and save images using OpenCV and try some simple image operations(like converting images to grayscale, resizing, and flipping images).
 

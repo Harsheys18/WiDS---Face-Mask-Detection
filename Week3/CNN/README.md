@@ -27,4 +27,4 @@ Go through the [theory](https://medium.com/thedeephub/convolutional-neural-netwo
 
 To have a better understanding on maths behind CNN refer to these videos.
 
-[Playlist](https://www.youtube.com/playlist?list=PLuhqtP7jdD8CD6rOWy20INGM44kULvrHu)
+[Playlist[40:50]](https://www.youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn)

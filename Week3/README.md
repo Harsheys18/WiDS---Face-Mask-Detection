@@ -4,8 +4,8 @@ Welcome to the third week of our **Deep Learning Course!** This week, we'll dive
 
 Stay engaged and practice consistently to make the most of this learning experience. Keep your enthusiasm high, and let’s continue this exciting journey of machine learning together!
 
-1. Let's start with [Transfer learning](./Transfer%20Learning/), essential for preprocessing the raw image data.
-2. Now it's time to explore [Architectures](./Pre-trained%20Models%20and%20Architectures/), the most efficient NN to deal with image data.
+1. Let's start with [Transfer learning](./Transfer%20Learning/).
+2. Now it's time to explore [Architectures](./Pre-trained%20Models%20and%20Architectures/).
 3. Let's put our knowledge to the test and tackle the [Assignments](./Assignment).
 
 **Congratulations** on completing the third week! We hope you've gained valuable insights that have sparked your enthusiasm and interest in deep learning. Keep your enthusiasm high, and we are excited to see you in the next week.
